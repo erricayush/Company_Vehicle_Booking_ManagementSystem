@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="CompanyVehicleBookingManagementSystem/CompanyVehicleBookingManagementSystem.API.csproj" />
+  </Folder>
+  <Folder Name="/Application/">
+    <Project Path="CompanyVehicleBooking.Application/CompanyVehicleBooking.Application.csproj" />
+    <Project Path="CompanyVehicleBooking.Domain/CompanyVehicleBooking.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="CompanyVehicleBooking.Infrastructure/CompanyVehicleBooking.Infrastructure.csproj" />
+  </Folder>
+</Solution>
